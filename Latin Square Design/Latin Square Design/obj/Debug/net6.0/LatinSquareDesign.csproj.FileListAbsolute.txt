@@ -1,0 +1,14 @@
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.AssemblyInfoInputs.cache
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.AssemblyInfo.cs
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.csproj.CoreCompileInputs.cache
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\bin\Debug\net6.0\LatinSquareDesign.exe
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\bin\Debug\net6.0\LatinSquareDesign.deps.json
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\bin\Debug\net6.0\LatinSquareDesign.runtimeconfig.json
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\bin\Debug\net6.0\LatinSquareDesign.dll
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\bin\Debug\net6.0\LatinSquareDesign.pdb
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.dll
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\refint\LatinSquareDesign.dll
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.pdb
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\LatinSquareDesign.genruntimeconfig.cache
+D:\Projects\Hebbian\Latin Square Design\Latin Square Design\Latin Square Design\obj\Debug\net6.0\ref\LatinSquareDesign.dll

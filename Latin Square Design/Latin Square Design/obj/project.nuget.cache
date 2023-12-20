@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUUlPaHvh/sZmlOcuqzNrJtIUTmwzSzrFfVGJfWYH9vgJe+KNIloPMt1X8Uq0h1e58TWk4foojVZ37qOioTLyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Hebbian\\Latin Square Design\\Latin Square Design\\Latin Square Design\\LatinSquareDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
